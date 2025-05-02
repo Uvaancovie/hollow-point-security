@@ -24,7 +24,7 @@ function App() {
       <Services />
       <About />
       <div className="relative bg-black py-16">
-        <div className="absolute inset-0 bg-[url('https://images.pexels.com/photos/4033324/pexels-photo-4033324.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=2')] bg-cover bg-center opacity-10"></div>
+        <div className="absolute inset-0 bg-[url('https://www.moneyweb.co.za/wp-content/uploads/2014/10/ramaphosa-convoy-1024x684.jpg"></div>
         <div className="relative max-w-7xl mx-auto px-4 sm:px-6 lg:px-8 flex flex-col items-center">
           <h2 className="text-white font-bold text-5xl text-center max-w-3xl">
             Professional Security Solutions for Your Peace of Mind
