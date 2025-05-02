@@ -4,7 +4,7 @@ import Button from '../components/Button';
 
 const Hero = () => {
   return (
-    <section id="home" className="relative w-full min-h-screen mx-auto bg-[url('https://images.pexels.com/photos/258447/pexels-photo-258447.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=2')] bg-cover bg-center">
+    <section id="home" className="relative w-full min-h-screen mx-auto bg-[url('https://static.euronews.com/articles/stories/07/55/03/04/1024x538_cmsv2_344051ce-43d5-5e56-accb-cb1b473e6dba-7550304.jpg')] bg-cover bg-center">
       <div className="absolute inset-0 bg-black bg-opacity-80"></div>
       
       <div className="relative inset-0 max-w-7xl mx-auto flex flex-col items-start justify-center min-h-screen px-4 sm:px-6 lg:px-8 py-20">
