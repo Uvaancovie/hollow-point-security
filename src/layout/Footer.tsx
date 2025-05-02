@@ -89,17 +89,17 @@ const Footer = () => {
             <h3 className="text-white font-bold text-lg mb-6">Contact Info</h3>
             <ul className="space-y-3">
               <li className="text-gray-400">
-                123 Security Drive, Suite 500
-                <br />Metropolis, NY 10001
+                Durban South Africa
+                <br />Umhlanga Ridge Centre
               </li>
               <li className="text-gray-400">
-                info@hollowpointsecurity.com
+                sohanmarajh@hollowpointsecurity.com
               </li>
               <li className="text-gray-400">
-                +1 (555) 123-4567
+              +27 63 083 5453
               </li>
               <li className="text-gray-400">
-                24/7 Emergency: +1 (555) 911-0000
+                24/7 Emergency: +27 63 083 5453
               </li>
             </ul>
           </div>
