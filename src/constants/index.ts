@@ -61,7 +61,7 @@ export const services = [
 export const testimonials = [
   {
     text: "Hollow Point Security transformed our company's approach to safety. Their professional team designed a comprehensive security system that gives us peace of mind 24/7.",
-    name: "Michael Roberts",
+    name: "Sohan Marajh",
     position: "CEO, Nexus Innovations",
   },
   {
@@ -78,21 +78,21 @@ export const testimonials = [
 
 export const teamMembers = [
   {
-    name: "James Wilson",
+    name: "Andre Coetzee",
     position: "Chief Security Officer",
     description: "Former military intelligence officer with 15+ years of experience in private security operations.",
-    image: "https://images.pexels.com/photos/220453/pexels-photo-220453.jpeg?auto=compress&cs=tinysrgb&w=600",
+    image: "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSH4xl-luj5K0Ig7GbDQoAU1vzUjCpbBKoDRA&s",
   },
   {
-    name: "Alexandra Martinez",
+    name: "Skombuzo Ntini",
     position: "Head of Operations",
     description: "Specialist in security logistics and team coordination with background in law enforcement.",
-    image: "https://images.pexels.com/photos/774909/pexels-photo-774909.jpeg?auto=compress&cs=tinysrgb&w=600",
+    image: "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR2R-OV66b7DUNT8q1QVQL7RcLS_KkHCy4SHQ&s",
   },
   {
-    name: "Marcus Johnson",
+    name: "Marcus Joubert",
     position: "Technical Security Lead",
     description: "Expert in surveillance systems and security technology with certifications in cybersecurity.",
-    image: "https://images.pexels.com/photos/614810/pexels-photo-614810.jpeg?auto=compress&cs=tinysrgb&w=600",
+    image: "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ0zRjgaqRUzKdeOoEX4Ef86D5qRYRjQPn17g&s",
   },
 ];
