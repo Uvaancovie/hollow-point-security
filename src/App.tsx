@@ -31,7 +31,7 @@ function App() {
           </h2>
           <a
             href="#contact"
-            className="mt-10 py-4 px-8 bg-red-600 text-white font-bold text-lg rounded-md hover:bg-red-700 transition-all duration-300"
+            className="mt-10 py-4 px-8 bg-black-600 text-white font-bold text-lg rounded-md hover:bg-red-700 transition-all duration-300"
           >
             Get a Free Consultation
           </a>
